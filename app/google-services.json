@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145711675941",
+    "project_id": "escuelapp-f167e",
+    "storage_bucket": "escuelapp-f167e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145711675941:android:c22aeb9b69b8ed6ade1dcc",
+        "android_client_info": {
+          "package_name": "app.escuelApp.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEa10y6_EsjQpmlJtaAO2yHTIR-M8GYzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
